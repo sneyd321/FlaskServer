@@ -67,7 +67,7 @@ Run “conda install -c anaconda opencv”
 Run “conda install -c anaconda pillow”
 
 
-Step 8 - Running the server
+Step 9 - Running the server
 Go to command prompt and type ipconfig
 Go to “Wireless LAN adapter Wi-Fi” and get IPv4 Address
 Go to anaconda prompt and type jupyter-notebook
