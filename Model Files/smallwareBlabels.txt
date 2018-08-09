@@ -1,0 +1,8 @@
+breading station
+conveyor belt
+dough feeder
+dough plainer
+dough roller
+dough sheeter
+packaging machine
+tortilla machine
